@@ -66,4 +66,3 @@ Tentu! Berikut ini adalah versi **Markdown** dari penjelasan **Domain Knowledge 
 - E-commerce berkelanjutan & etis
 ```
 
-Jika kamu ingin saya ekspor ini ke dalam file `.md`, atau mengkonversi ke PDF, silakan beri tahu!
