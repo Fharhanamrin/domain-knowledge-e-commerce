@@ -1,4 +1,4 @@
-Tentu! Berikut ini adalah versi **Markdown** dari penjelasan **Domain Knowledge dalam E-Commerce**:
+ **Domain Knowledge dalam E-Commerce**:
 
 ```markdown
 # Domain Knowledge: E-Commerce
